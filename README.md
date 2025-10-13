@@ -7,5 +7,5 @@ Originally published at https://github.com/masoo/docker-ubuntu-2404-ruby
 ## Usage
 
 ```
-docker build -t masoo/ubuntu-2404-ruby --build-arg RUBY_VERSION=3.4.6 .
+docker build -t masoo/ubuntu-2404-ruby --build-arg RUBY_VERSION=3.4.7 .
 ```
